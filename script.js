@@ -1,3 +1,4 @@
+android=Packages.android
 DBCopy()
 mPath = "/sdcard/TMP.db"
 mPath2 = "/sdcard/TMP2.db"
